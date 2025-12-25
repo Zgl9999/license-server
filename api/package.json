@@ -1,13 +1,1 @@
-```json
-{
-  "name": "license-server",
-  "version": "1.0.0",
-  "description": "卡密验证服务器",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "@supabase/supabase-js": "^2.38.0"
-  }
-}
-```
+
